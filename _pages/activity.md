@@ -10,6 +10,7 @@ permalink: /activity/
 
 ## speaker
 
+- 13/12/2021 - **Looking at your delivery through data lenses** (case study) @ **Agile Warsaw**
 - 05/02/2021 - **Aiding bounded contexts design with design heuristics** (lightning talk, online) @ **Domain Driven Design Europe**
 - 05/11/2019 - **Example Mapping in practice** (case study, workshop) @ **Warsaw Java User Group**
 - 14/09/2019 - **Example Mapping in practice** (case study, workshop) @ **HackYeah**
