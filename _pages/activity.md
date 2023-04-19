@@ -10,6 +10,8 @@ permalink: /activity/
 
 ## speaker
 
+- 18/04/2023 - **[Using Kano model to position product on the market](https://docs.google.com/presentation/d/1YTQExlXTmiEaT64McoTNKS21F9l0nOw39BxyQbh2ojY/edit?usp=sharing)** @ **ProductTank Warsaw**
+- 18/04/2023 - **[Using Kano model to position product on the market](https://docs.google.com/presentation/d/1YTQExlXTmiEaT64McoTNKS21F9l0nOw39BxyQbh2ojY/edit?usp=sharing)** @ **4Developers**
 - 13/12/2021 - **[Looking at your delivery through data lenses](https://docs.google.com/presentation/d/1z2o4W1H_MX-vFyc35w2aJius0WpA6lGoNkuT6InA2rs/edit?usp=sharing)** (case study) @ **Agile Warsaw**
 - 05/02/2021 - **[Aiding bounded contexts design with design heuristics](https://docs.google.com/presentation/d/1zDY-IBXpjn_lS8w1isxotjLEzAHBp2cHG6HJJpOdMrI/edit?usp=sharing)** (lightning talk, online) @ **Domain Driven Design Europe**
 - 05/11/2019 - **Example Mapping in practice** (case study, workshop) @ **Warsaw Java User Group**
@@ -82,3 +84,7 @@ permalink: /activity/
 
 For over 2 years (Dec. 2012 - Jan. 2015) I co-led **Warsaw Java User Group**.
 I also co-organized **Microservices hackathon**, **TestKata**, **GitKata** and 3 editions of **Warsjawa** workshop conference.
+
+## program council
+
+- Ya!vaConf 2022 program council member responsible for software architecture track
