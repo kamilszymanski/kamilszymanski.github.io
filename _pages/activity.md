@@ -10,6 +10,7 @@ permalink: /activity/
 
 ## speaker
 
+- 09/10/2023 - **EventStorming** (workshop) @ **Agile Warsaw**
 - 18/04/2023 - **[Using Kano model to position product on the market](https://docs.google.com/presentation/d/1YTQExlXTmiEaT64McoTNKS21F9l0nOw39BxyQbh2ojY/edit?usp=sharing)** @ **ProductTank Warsaw**
 - 18/04/2023 - **[Using Kano model to position product on the market](https://docs.google.com/presentation/d/1YTQExlXTmiEaT64McoTNKS21F9l0nOw39BxyQbh2ojY/edit?usp=sharing)** @ **4Developers**
 - 13/12/2021 - **[Looking at your delivery through data lenses](https://docs.google.com/presentation/d/1z2o4W1H_MX-vFyc35w2aJius0WpA6lGoNkuT6InA2rs/edit?usp=sharing)** (case study) @ **Agile Warsaw**
