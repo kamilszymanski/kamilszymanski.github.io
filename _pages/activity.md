@@ -10,6 +10,7 @@ permalink: /activity/
 
 ## speaker
 
+- 12/12/2023 - **[Staying competitive in red ocean with Kano model](https://docs.google.com/presentation/d/18KmbgtiEZJwom8jwl3pB14urd3j8P97AH2LI-AIQFLI/edit?usp=sharing)** (flash-talk) @ **Warsaw Java User Group**
 - 09/10/2023 - **EventStorming** (workshop) @ **Agile Warsaw**
 - 18/04/2023 - **[Using Kano model to position product on the market](https://docs.google.com/presentation/d/1YTQExlXTmiEaT64McoTNKS21F9l0nOw39BxyQbh2ojY/edit?usp=sharing)** @ **ProductTank Warsaw**
 - 18/04/2023 - **[Using Kano model to position product on the market](https://docs.google.com/presentation/d/1YTQExlXTmiEaT64McoTNKS21F9l0nOw39BxyQbh2ojY/edit?usp=sharing)** @ **4Developers**
