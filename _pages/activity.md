@@ -10,6 +10,7 @@ permalink: /activity/
 
 ## speaker
 
+- 12/11/2025 - **[Domain Storytelling and beyond](https://docs.google.com/presentation/d/1J_XRKHXk9IEP8QE8p9n85aLox5f1EqTPATIbQovOOYA/edit?usp=sharing)** (live demo) @ **Ruby Warsaw Meetup**
 - 19/09/2025 - **Domain Storytelling** (workshop) @ **Confitura**
 - 12/12/2023 - **[Staying competitive in red ocean with Kano model](https://docs.google.com/presentation/d/18KmbgtiEZJwom8jwl3pB14urd3j8P97AH2LI-AIQFLI/edit?usp=sharing)** (flash-talk) @ **Warsaw Java User Group**
 - 09/10/2023 - **EventStorming** (workshop) @ **Agile Warsaw**
